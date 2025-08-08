@@ -54,7 +54,7 @@ An Interactive card details form where Users should be able to:
 
 ### Links
 
-- **Live Site URL:** [Demo](https://kredit-kard.vercel.app/)
+- **Live Site URL:** [Kredit kard Demo](https://kredit-kard.vercel.app/)
 
 ---
 
