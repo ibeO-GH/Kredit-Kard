@@ -54,8 +54,7 @@ An Interactive card details form where Users should be able to:
 
 ### Links
 
-- **Solution URL:** [Add your solution URL here](https://your-solution-url.com)
-- **Live Site URL:** [Add your live site URL here](https://your-live-site-url.com)
+- **Live Site URL:** [Add your live site URL here](https://kredit-kard.vercel.app/)
 
 ---
 
@@ -139,7 +138,7 @@ In the future, I want to:
 
 - Frontend Mentor – @yourusername
 
-- GitHub – @yourusername
+- GitHub – @ibeO-GH
 
 ---
 

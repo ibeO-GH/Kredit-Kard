@@ -55,7 +55,7 @@ export const CardDisplay = ({
       {/* Desktop Layout */}
       <div className="hidden lg:block relative w-full h-[400px] pl-24 pt-10">
         {/* Front Card */}
-        <div className="absolute top-0 left-15 w-80 h-48 z-20">
+        <div className="absolute top-0 left-5 w-80 h-48 z-20">
           <img
             src={cardFront}
             alt="Card Front"
@@ -80,7 +80,7 @@ export const CardDisplay = ({
         </div>
 
         {/* Back Card */}
-        <div className="absolute top-55 left-35 w-80 h-48 z-10">
+        <div className="absolute top-24 left-35 w-80 h-48 z-10">
           <img
             src={cardBack}
             alt="Card Back"
