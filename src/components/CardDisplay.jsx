@@ -80,7 +80,7 @@ export const CardDisplay = ({
         </div>
 
         {/* Back Card */}
-        <div className="absolute top-24 left-35 w-80 h-48 z-10">
+        <div className="absolute top-53 left-24 w-80 h-48 z-10">
           <img
             src={cardBack}
             alt="Card Back"
