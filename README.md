@@ -87,7 +87,7 @@ src/
 │ ├── card-front.png # Card front PNG
 │ ├── card-back.png # Card back PNG
 │ ├── card-logo.svg # Card logo (SVG)
-│ ├── icon-complete.svg # Success page icon (SVG)
+│ ├── icon-complete.svg # Completed page icon (SVG)
 │ └── favicon-32x32.png
 │
 ├── components/
@@ -136,7 +136,7 @@ In the future, I want to:
 
 ## Author
 
-- Frontend Mentor – @yourusername
+- Frontend Mentor – @ibeO-GH
 
 - GitHub – @ibeO-GH
 
